@@ -1,0 +1,15 @@
+{
+  "admin": {
+    "Name": "root",
+    "Pwd": "123456",
+    "mail": "123@123.com",
+    "DbName": "go_project",
+    "DbLoginID": "root",
+    "DbLoginPwd": "123456",
+    "DbAddr": "127.0.0.1:3306",
+    "DbConfig":"charset=utf8mb4&parseTime=True&loc=Local",
+    "JwtSecret": "bolg_go",
+    "ExpirationTime" : "1"
+  },
+  "siteName": "TEST_NAME"
+}
